@@ -1,0 +1,40 @@
+.primer_parrafo{
+
+  color: red;
+  font-weight: bold;
+
+}
+
+.segundo_parrafo{
+
+  color: red;
+  font-weight: bold;
+  margin-right:75%;
+
+}
+
+#tercer_parrafo{
+
+  background-color: pink;
+  font-weight: bold;
+  margin-right:75%;
+
+}
+
+#cuarto_parrafo{
+
+  background-color: pink;
+  font-weight: bold;
+  margin-right:75%;
+
+}
+
+div{
+
+      width: 300px;
+      padding: 25px;
+      background-color:purple;
+      margin: 25px;
+      color:white;
+
+}
